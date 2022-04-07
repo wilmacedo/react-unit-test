@@ -1,12 +1,12 @@
 {
-  "name": "unit-test-js",
+  "name": "react-unit-test",
   "private": true,
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
-    "test": "jest --watchAll"
+    "test": "jest"
   },
   "dependencies": {
     "react": "^17.0.2",
